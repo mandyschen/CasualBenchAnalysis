@@ -1,0 +1,1 @@
+{"model_name": "igsp", "dataset_name": "weissmann_k562", "inference_function_file_path": "", "model_seed": 0, "training_regime": "PartialIntervational", "partial_intervention_seed": 0, "fraction_partial_intervention": 0.25, "subset_data": 1.0, "exp_id": "", "max_path_length": -1, "filter": true}

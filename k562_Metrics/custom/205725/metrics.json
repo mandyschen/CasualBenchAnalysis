@@ -1,0 +1,34 @@
+{
+    "corum_evaluation": {
+        "true_positives": 417.0
+    },
+    "ligand_receptor_evaluation": {
+        "true_positives": 0.0
+    },
+    "quantitative_test_evaluation": {
+        "output_graph": {
+            "true_positives": 992,
+            "false_positives": 8,
+            "wasserstein_distance": {
+                "mean": 0.4017017938177372
+            }
+        },
+        "all_path_output": {
+            "true_positives": 4170,
+            "false_positives": 2046,
+            "wasserstein_distance": {
+                "mean": 0.22337749842044374
+            }
+        }
+    },
+    "string_network_evaluation": {
+        "true_positives": 779.0
+    },
+    "string_physical_evaluation": {
+        "true_positives": 519.0
+    },
+    "chipseq_evaluation": {
+        "true_positives": 5
+    },
+    "run_time": 5982.113928079605
+}
